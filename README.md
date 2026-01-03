@@ -81,6 +81,12 @@ Designing scalable ML systems, LLM-powered applications, and enterprise-grade fu
 <hr/>
 
 <p align="center">
-🔗 <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> ·
-💻 <a href="https://github.com/your-username">GitHub</a>
+  <a href="https://www.linkedin.com/in/vikash-kumar-8932b8342/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" height="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vikashkumardatascience007" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="30" height="30" alt="GitHub"/>
+  </a>
 </p>
+
